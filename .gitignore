@@ -1,3 +1,9 @@
 Face_Segmentation/trained/model.h5
 Data/clothing-co-parsing/
 
+Data/.DS_Store
+Data/.DS_Store
+Data/Face_Segments/.DS_Store
+Data/.DS_Store
+Face_Segmentation/model.json
+Face_Segmentation/trained/
