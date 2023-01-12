@@ -7,3 +7,7 @@ Data/Face_Segments/.DS_Store
 Data/.DS_Store
 Face_Segmentation/model.json
 Face_Segmentation/trained/
+Face_Segments/
+Face_Segments/augmented/*
+Face_Segmentation/augmented/i2/
+Face_Segmentation/augmented/m2/
